@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Heonjin_Kwon&fontSize=45&animation=twinkling)
 
-<h2 align="center"> ⚡Techs </h2>
+<h2 align="center"> ⚡Techs⚡ </h2>
 
 <p align="center">
   <p align="center">
@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 align="center"> ⭐Me </h2>
+<h2 align="center"> ⭐Me⭐ </h2>
 
   <p align="center">
     <a href="https://evan96.tistory.com"><img src="https://img.shields.io/badge/Tistory Blog-000000?style=flatsquare&logo=AngelList&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
